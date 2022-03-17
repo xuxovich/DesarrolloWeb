@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Erase una vez HTML</title>
+</head>
+<body>
+<h1>Erase una vez HTML</h1>
+
+<h2>El padre</h2>
+
+<p>El padre de la Web, <strong>Tim Berners-Lee</strong>, es también  el padre del lenguaje HTML, <em>Hyper Text Markup Language</em>.</p>
+
+<h2>La estandarización</h2>
+
+<p>El lenguaje HTML esta estandarizado por el W3C, el <em>World Wide Web Consortium</em>.</p>
+
+<p>La versión actual de HTML es la 5, aunque no está completada.</p>
+
+<p>Se espera este terminada en el <strong>año 2014</strong></p>
+
+</body>
+</html>
